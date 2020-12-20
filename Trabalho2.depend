@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1574664840 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1574562715 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\pilha.h
+
+1574754489 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"simulador.h"
+
+1574667788 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"fila.h"
+
+1574667459 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\fila.h
+
+1574665831 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\trilhos.c
+	<stdio.h>
+	<stdlib.h>
+	"trilhos.h"
+
+1574584708 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\trilhos.h
+	"pilha.h"
+
+1574754881 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\simulador.c
+	<stdio.h>
+	<stdlib.h>
+	"simulador.h"
+
+1574636036 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\trabalho2\simulador.h
+	"fila.h"
+	"trilhos.h"
+
+1574664190 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"fila.h"
+
+1574663860 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\fila.h
+
+1574750890 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"simulador.h"
+
+1574632438 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\simulador.h
+	"fila.h"
+	"trilhos.h"
+
+1574581110 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\trilhos.h
+	"pilha.h"
+
+1574559116 c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\pilha.h
+
+1574661242 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1574824108 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\simulador.c
+	<stdio.h>
+	<stdlib.h>
+	"simulador.h"
+
+1574824082 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\estrutura de dados i\trabalho 2\luiz felipe duarte elias\trilhos.c
+	<stdio.h>
+	<stdlib.h>
+	"trilhos.h"
+
+1574664190 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"fila.h"
+
+1574663860 c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\fila.h
+
+1574750890 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"simulador.h"
+
+1574632438 c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\simulador.h
+	"fila.h"
+	"trilhos.h"
+
+1574581110 c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\trilhos.h
+	"pilha.h"
+
+1574559116 c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\pilha.h
+
+1574661242 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1574824108 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\simulador.c
+	<stdio.h>
+	<stdlib.h>
+	"simulador.h"
+
+1574824082 source:c:\users\felip\documents\material de estudo\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\trilhos.c
+	<stdio.h>
+	<stdlib.h>
+	"trilhos.h"
+
+1574664190 source:d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"fila.h"
+
+1574663860 d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\fila.h
+
+1574750890 source:d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"simulador.h"
+
+1574632438 d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\simulador.h
+	"fila.h"
+	"trilhos.h"
+
+1574581110 d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\trilhos.h
+	"pilha.h"
+
+1574559116 d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\pilha.h
+
+1574661242 source:d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1574824108 source:d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\simulador.c
+	<stdio.h>
+	<stdlib.h>
+	"simulador.h"
+
+1574824082 source:d:\universidade\disciplinas\4º periodo\estrutura de dados i\trabalho 2\luiz felipe duarte elias\trilhos.c
+	<stdio.h>
+	<stdlib.h>
+	"trilhos.h"
+
